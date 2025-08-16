@@ -290,7 +290,7 @@ export const reviews = [
     name: "💰 100% Money Back Guarantee",
   },
   {
-    name: "👜 100% Job Placement/Assistance",
+    name: "👜 100% Job Placement Assistance",
   },
   {
     name: "🚫 We Don't Sell You Courses",
